@@ -1,0 +1,6 @@
+D:\немного мусора\Serialization\bin\Debug\Serialization.exe.config
+D:\немного мусора\Serialization\bin\Debug\Serialization.exe
+D:\немного мусора\Serialization\bin\Debug\Serialization.pdb
+D:\немного мусора\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+D:\немного мусора\Serialization\obj\Debug\Serialization.exe
+D:\немного мусора\Serialization\obj\Debug\Serialization.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ivan Petrovich</Name>
+  <Number>345248325 сброс 103</Number>
+</Contact><?xml version="1.0" encoding="utf-8"?>
+<Contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ivan Petrovich</Name>
+  <Number>345248325 сброс 103</Number>
+</Contact><?xml version="1.0" encoding="utf-8"?>
+<Contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ivan Petrovich</Name>
+  <Number>345248325 сброс 103</Number>
+</Contact>
